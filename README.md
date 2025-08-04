@@ -18,14 +18,13 @@
 <!-- Side image for personality touch -->
 <img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
+
 <!-- Brief intro skills banner -->
-<p align="center">
-  🎓 <b>Computer Science Engineering Student</b> &nbsp;|&nbsp;
-  ☕ <b>Java</b>, 🐍 <b>Python</b>, 💻 <b>C++</b> &nbsp;|&nbsp;
-  🌐 <b>Full Stack Developer + Data Analytics</b> &nbsp;|&nbsp;
-  🧑‍💻 <b>GitHub Contributor</b> &nbsp;|&nbsp;
-  🤖 <b>AI/ML Explorer</b>
-</p>
+- 🎓 Computer Science Engineering Student.
+- 📖 Focused on learning Data Analytics & ML.
+- 🛠️ Enjoy solving problems & building cool stuff.
+- 👥 Open to collaboration on Dev & AI projects.
+- 🔧 Offering services for Full Stack & GitHub Contributor.
 
 ---
 
