@@ -8,10 +8,12 @@
 
 <img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
-
 <p align="center">
-  🎓 <b>Computer Science Engineering Student</b> &nbsp;|&nbsp; ☕ <b>Java</b>, 🐍 <b>Python</b>, 💻 <b>C++</b> &nbsp;|&nbsp;
-  🌐 <b>Full Stack + Data Analytics</b> &nbsp;|&nbsp; 🧑‍💻 <b>GitHub Contributor</b> &nbsp;|&nbsp; 🤖 <b>AI/ML Explorer</b>
+  🎓 <b>Computer Science Engineering Student</b> &nbsp;|&nbsp;
+  ☕ <b>Java</b>, 🐍 <b>Python</b>, 💻 <b>C++</b> &nbsp;|&nbsp;
+  🌐 <b>Full Stack Developer + Data Analytics</b> &nbsp;|&nbsp;
+  🧑‍💻 <b>GitHub Contributor</b> &nbsp;|&nbsp;
+  🤖 <b>AI/ML Explorer</b>
 </p>
 
 
@@ -93,17 +95,7 @@
   </details>
 </div>
 
-### 📲 Popular Projects (Click to View)
 
-- [Instagram Downloader](https://github.com/AnkitSingh1827/InstagramDownloader)
-- [GPS Map Camera](https://github.com/AnkitSingh1827/Gps-Map-Camera-Location-on-Photo)
-- [Whatsapp Status Saver](https://github.com/AnkitSingh1827/Whatsapp-Status-Saver)
-- [2048 Game](https://github.com/AnkitSingh1827/2048-Charm-Number-Puzzle-Game)
-- [Find My Phone (Clap)](https://github.com/AnkitSingh1827/Find-My-Phone-By-Clapping)
-- [PDF Reader / Image to PDF / PDF Tools](#)
-- 🔒 *48+ Premium Private Android Projects Ready to Roll!*
-
----
 
 > Stay curious, build often, and never stop learning 💡  
 > — *Ankit Singh*
