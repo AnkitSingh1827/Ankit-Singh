@@ -6,7 +6,9 @@
 
 </p>
 
-<img align="right" alt="Shinchan the Great" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankit-Singh/main/Shinchan%20the%20great.jpeg">
+<img align="right" alt="Wallpaper Aryana" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankit-Singh/main/Wallpaler%20arayana.jpeg">
+
+
 
 
 
