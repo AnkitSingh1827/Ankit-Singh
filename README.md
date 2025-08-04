@@ -6,10 +6,7 @@
 
 </p>
 
-<img align="right" alt="Wallpaper Aryana" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankit-Singh/main/Wallpaler%20arayana.jpeg">
-
-
-
+<img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
 
 - 👨‍💻 I build full-stack apps that *actually work*.
