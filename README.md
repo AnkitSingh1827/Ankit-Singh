@@ -57,7 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AnkitSingh1827&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitSingh1827&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AnkitSingh1827/github-readme-activity-graph)
 
 </div>
 
@@ -71,13 +70,13 @@
 
 ---
  
-## 📊 GitHub Contribution Graph
-
+<!-- GitHub Contribution Graph with clickable link -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAYALPJENA&theme=react-dark&area=true" />
+  <a href="https://github.com/AnkitSingh1827/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSingh1827&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  </a>
 </p>
 
----
 
 
 
