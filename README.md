@@ -6,7 +6,9 @@
 
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/AnkitSingh1827/AnkitSingh1827/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
+<img align="right" alt="Shinchan the Great" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankit-Singh/main/Shinchan%20the%20great.jpeg">
+
+
 
 - 👨‍💻 I build full-stack apps that *actually work*.
 - 📖 Always in learner mode 🚀
