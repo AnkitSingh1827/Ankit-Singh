@@ -16,22 +16,34 @@
   🤖 <b>AI/ML Explorer</b>
 </p>
 
+--- 
 
 <div align="start">
 
   ![](https://komarev.com/ghpvc/?username=AnkitSingh1827&style=flat&color=brightgreen)
 
-</div>
+## 🔗 Follow Me
 
 <div align="start">
 
-<a href="mailto:ankitsinghrathore756756@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitrathore.05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh257)
-<a href="https://wa.me/916205975874" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
+  <a href="mailto:ankitsinghrathore756756@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 
+  <a href="https://instagram.com/ankitrathore.05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ankit-singh257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/916205975874" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+  </a>
 
 </div>
+
 
 <div align="center">
 
@@ -57,43 +69,15 @@
 <span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note:</b> Public work ≠ full skillset. I build way more in private repos. This is just the tip of the iceberg.</span>  
 </p>
 
-### ⚡ Recent Activity
+---
+ 
+## 📊 GitHub Contribution Graph
 
-<!--START_SECTION:activity-->
-<!-- Replace with your actual activity tracking or use GitHub Actions -->
-1. 🚀 Pushed some fresh content – check it out in pinned repos!
-2. 💬 Working on cool collab projects!
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAYALPJENA&theme=react-dark&area=true" />
+</p>
 
-### ✍️ Latest Medium Articles
-<!-- ARTICLES:START -->
-- *(Coming Soon — your published Medium articles will appear here if linked with GitHub Actions)*
-<!-- ARTICLES:END -->
-
-## ☕ Fuel My Code
-
-<div align="center">
-  <a href="https://www.paypal.com/paypalme/yourpaypal">
-    <img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-   <a href="https://github.com/AnkitSingh1827/AnkitSingh1827/blob/main/donate/upi_scan.jpg?raw=true">
-    <img src="https://img.shields.io/badge/Support_via_UPI-4CAF50?style=for-the-badge&logo=google-pay&logoColor=white" alt="UPI"/>
-  </a>
-  <p><i>Your support = More features + Less bugs + Infinite gratitude ✨</i></p>
-
-  <table>
-    <tr>
-      <td>🚀 Faster Updates</td>
-      <td>📘 Better Docs</td>
-      <td>🧠 More Innovation</td>
-    </tr>
-  </table>
-
-  <details>
-    <summary><b>Why Support?</b></summary>
-    <p>Every little contribution keeps the open-source gears turning. You get better code, I get more caffeine. Everyone wins 🏆</p>
-  </details>
-</div>
+---
 
 
 
