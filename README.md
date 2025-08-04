@@ -126,16 +126,11 @@
 ====================================================== -->
 ## 📊 GitHub Contribution Graph
 
-## 📊 GitHub Contribution Graph
-
 <p align="center">
   <a href="https://github.com/AnkitSingh1827/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSingh1827&theme=react-dark&area=true" alt="GitHub Contribution Graph" />
   </a>
 </p>
-
----
-
 
 ---
 
