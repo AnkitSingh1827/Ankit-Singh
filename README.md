@@ -9,11 +9,11 @@
 <img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
 
-- 👨‍💻 I build full-stack apps that *actually work*.
-- 📖 Always in learner mode 🚀
-- 🛠️ Tinkering with web dev, ML, and Android
-- 👥 Collaboration > Isolation
-- 🔧 Offering dev services and open source collabs!
+<p align="center">
+  🎓 <b>Computer Science Engineering Student</b> &nbsp;|&nbsp; ☕ <b>Java</b>, 🐍 <b>Python</b>, 💻 <b>C++</b> &nbsp;|&nbsp;
+  🌐 <b>Full Stack + Data Analytics</b> &nbsp;|&nbsp; 🧑‍💻 <b>GitHub Contributor</b> &nbsp;|&nbsp; 🤖 <b>AI/ML Explorer</b>
+</p>
+
 
 <div align="start">
 
@@ -24,10 +24,10 @@
 <div align="start">
 
 <a href="mailto:ankitsinghrathore756756@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-<a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/91XXXXXXXXXX/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitrathore.05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh257)
+<a href="https://wa.me/916205975874" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
+
 
 </div>
 
