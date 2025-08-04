@@ -13,6 +13,8 @@
   </a>
 </p>
 
+---
+
 <!-- Side image for personality touch -->
 <img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
@@ -60,7 +62,32 @@
 </div>
 
 ---
+<!-- 🌟 Languages & Tools Section -->
+<!-- Purpose: Showcase your tech stack at a glance using icons -->
 
+## 🛠️ Languages & Tools I Have Placed My Hands On
+
+<!-- Align the icons to the left, you can change to center if needed -->
+<p align="left">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,c" title="Java, Python, C++, C" />
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" title="HTML, CSS, JavaScript, React" />
+  
+  <!-- Database & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" title="MySQL, MongoDB, Firebase" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VS Code, Figma" />
+  
+  <!-- OS & CLI -->
+  <img src="https://skillicons.dev/icons?i=linux,powershell" title="Linux, PowerShell" />
+
+</p>
+
+---
 <!-- ======================================================
 📊 GitHub Summary Cards
 ====================================================== -->
@@ -92,16 +119,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AnkitSingh1827&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
----
-
-<!-- ======================================================
-🧠 Languages and Tools (Icon style)
-====================================================== -->
-## 🛠️ Languages & Tools I Have Placed My Hands On
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,java,react,git,github,vscode,figma,mysql,firebase,mongodb,powershell,linux" />
-</p>
 
 ---
 
