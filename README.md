@@ -16,7 +16,7 @@
 ---
 
 <!-- Side image for personality touch -->
-<img align="right" alt="Empowering Kids with Tech" width="300" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
+<img align="right" alt="Empowering Kids with Tech" width="280" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
 
 
 <!-- Brief intro skills banner -->
@@ -126,11 +126,16 @@
 ====================================================== -->
 ## 📊 GitHub Contribution Graph
 
+## 📊 GitHub Contribution Graph
+
 <p align="center">
   <a href="https://github.com/AnkitSingh1827/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSingh1827&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSingh1827&theme=react-dark&area=true" alt="GitHub Contribution Graph" />
   </a>
 </p>
+
+---
+
 
 ---
 
