@@ -15,8 +15,11 @@
 
 ---
 
+
 <!-- Side image for personality touch -->
 <img align="right" alt="Empowering Kids with Tech" width="280" src="https://raw.githubusercontent.com/AnkitSingh1827/Ankitsingh1827/main/_Empowering%20Kids%20with%20Social%20Tech%20%26%20Robotics_%20The%20Future%20of%20Learning%20%F0%9F%9A%80%F0%9F%A4%96_.jpeg">
+
+
 
 
 <!-- Brief intro skills banner -->
@@ -26,6 +29,8 @@
 - 👥 Open to collaboration on Dev & AI projects.
 - 🔧 Offering services for Full Stack & GitHub Contributor.
 
+
+
 ---
 
 <!-- ======================================================
@@ -34,6 +39,8 @@
 <div align="start">
   <img src="https://komarev.com/ghpvc/?username=AnkitSingh1827&style=flat&color=brightgreen" alt="Profile views"/>
 </div>
+
+
 
 ---
 
@@ -59,6 +66,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
 </div>
+
 
 ---
 <!-- 🌟 Languages & Tools Section -->
@@ -86,7 +94,9 @@
 
 </p>
 
+
 ---
+
 <!-- ======================================================
 📊 GitHub Summary Cards
 ====================================================== -->
@@ -109,7 +119,9 @@
 
 </div>
 
+
 ---
+
 
 <!-- ======================================================
 🏆 GitHub Trophy Showcase
@@ -120,6 +132,7 @@
 
 
 ---
+
 
 <!-- ======================================================
 📈 Contribution Graph (clickable + themed)
@@ -132,7 +145,9 @@
   </a>
 </p>
 
+
 ---
+
 
 <!-- ======================================================
 💬 Final Thought
