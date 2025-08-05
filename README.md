@@ -21,7 +21,7 @@
 
 
 
-<br><br>
+<br>
 <!-- Brief intro skills banner -->
 - 🎓 Computer Science Engineering Student.
 - 📖 Focused on learning Data Analytics & ML.
@@ -29,6 +29,7 @@
 - 👥 Open to collaboration on Dev & AI projects.
 - 🔧 Offering services for Full Stack & GitHub Contributor.
 
+<br>
 
 
 ---
@@ -43,7 +44,7 @@
 
 
 ---
-<br><br>
+<br>
 <!-- ======================================================
 🔗 Social Links Section
 ====================================================== -->
@@ -63,11 +64,12 @@
   </a>
 
 </div>
+<br>
 
 ---
 <!-- 🌟 Languages & Tools Section -->
 <!-- Purpose: Showcase your tech stack at a glance using icons -->
-<br><br>
+<br>
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
 
@@ -91,9 +93,10 @@
 
 </p>
 
+<br>
 
 ---
-<br><br>
+<br>
 
 <!-- ======================================================
 📊 GitHub Summary Cards
@@ -117,10 +120,11 @@
 
 </div>
 
+<br>
 
 ---
 
-<br><br>
+<br>
 
 <!-- ======================================================
 🏆 GitHub Trophy Showcase
@@ -129,8 +133,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AnkitSingh1827&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
+<br>
 
 ---
+<br>
 
 
 <!-- ======================================================
