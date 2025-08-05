@@ -21,7 +21,7 @@
 
 
 
-
+<br><br>
 <!-- Brief intro skills banner -->
 - 🎓 Computer Science Engineering Student.
 - 📖 Focused on learning Data Analytics & ML.
@@ -43,7 +43,7 @@
 
 
 ---
-
+<br><br>
 <!-- ======================================================
 🔗 Social Links Section
 ====================================================== -->
@@ -64,10 +64,10 @@
 
 </div>
 
-
 ---
 <!-- 🌟 Languages & Tools Section -->
 <!-- Purpose: Showcase your tech stack at a glance using icons -->
+<br><br>
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
 
@@ -93,6 +93,7 @@
 
 
 ---
+<br><br>
 
 <!-- ======================================================
 📊 GitHub Summary Cards
@@ -119,6 +120,7 @@
 
 ---
 
+<br><br>
 
 <!-- ======================================================
 🏆 GitHub Trophy Showcase
