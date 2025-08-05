@@ -104,19 +104,19 @@
 <div align="center">
 
   <!-- General profile details -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitSingh1827&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitSingh1827&theme=github_dark" />
 
   <!-- GitHub stats overview -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitSingh1827&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitSingh1827&theme=github_dark" />
 
   <!-- Active coding hours -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkitSingh1827&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkitSingh1827&theme=github_dark&utcOffset=8" />
 
   <!-- Most used languages in repos -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitSingh1827&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitSingh1827&theme=github_dark" />
 
   <!-- Most committed languages -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitSingh1827&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitSingh1827&theme=github_dark" />
 
 </div>
 
